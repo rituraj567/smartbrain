@@ -37,7 +37,7 @@ Technologies Used
 
 - [React](https://reactjs.org)
 - JavaScript ES6
-- Clarifai API (https://www.clarifai.com/)
+- [Clarifai API](https://www.clarifai.com/)
 - Node.js
 - Express
 - PostgreSQL
